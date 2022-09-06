@@ -1,4 +1,6 @@
-﻿বিসমিল্লাহির রাহমানির রাহিম
+“This project is tested with BrowserStack.”
+
+বিসমিল্লাহির রাহমানির রাহিম
 
 ![NetCoreCMS](https://raw.githubusercontent.com/OnnorokomSoftware/NetCoreCMS/master/NetCoreCMS.Web/wwwroot/NetCoreCMS-full-logo.png)
 ## NetCoreCMS
